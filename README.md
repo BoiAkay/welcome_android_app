@@ -2,7 +2,8 @@
 ## App Sccreenshots
 
 
+####HTML code
+<img src="[path/to/image.png](https://github.com/BoiAkay/welcome_android_app/assets/82391654/490ec94d-914b-4c78-b3bf-354d9b53dd2c)" alt="Image description" width="200" height="200">
 
-![image]([https://github.com/favicon.ico](https://github.com/favicon.ico](https://github.com/BoiAkay/welcome_android_app/assets/82391654/7f6784eb-e922-46f8-a37f-20ab8f7fb7f9)" width="48"))
-<img src="[https://github.com/favicon.ico](https://github.com/BoiAkay/welcome_android_app/assets/82391654/7f6784eb-e922-46f8-a37f-20ab8f7fb7f9)" width="48">
+
 ## Java code is here : `app/src/main/java/com/example/birthdayapp`
