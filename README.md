@@ -2,17 +2,8 @@
 ## App Sccreenshots
 
 
-####HTML code
-```html
-<!DOCTYPE html>
-<html>
-    <head>
-    </head>
-    <body>
-       <img src="[path/to/image.png](https://github.com/BoiAkay/welcome_android_app/assets/82391654/490ec94d-914b-4c78-b3bf-354d9b53dd2c)" alt="Image description" width="200" height="200">
-    </body>
-</html>
-```
+![Screenshot_20230612_224015](https://github.com/BoiAkay/welcome_android_app/assets/82391654/03728878-d536-4385-98af-26f51ed4791a)
+
 
 
 ## Java code is here : `app/src/main/java/com/example/birthdayapp`
